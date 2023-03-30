@@ -1,0 +1,14 @@
+{
+  "name": "open-commit",
+  "version": "1.0.0",
+  "description": "Open commit package test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Sermar de Sousa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
